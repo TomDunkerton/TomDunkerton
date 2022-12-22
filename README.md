@@ -9,5 +9,5 @@
 - One of the goals of TD-ISA is to be an easy target for compilation from a variety of High Level Languages.
 - The TD-ISA could also be a CISC front end microcode that can run on various RISC proccessors like RISC-V.
 - It could also be implemented through a mode switch to be an alternative ISA for the X86 line of processors.
-- I would like this to become an open architecture which can be coordinated with RISC-V International as a new Standard CISC.
+- The idea is to become an open ISA which can be coordinated with RISC-V International as a new Standard CISC.
 - Comments are welcome, but please be kind. This is my baby.
