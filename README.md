@@ -1,0 +1,13 @@
+- My name is Tom Dunkerton
+- I am a retired pastor who used to work for IBM. 
+- I have a passion for studying Instruction Set Architetures on various CPUs.
+- I have designed my own ISA which uses dynamically typed data operands.
+- This significantly reduces the number of OP codes needed to perform a great many instructions.
+- The name of the architecture is Typed Data Instruction Set Architecture or TD-ISA.
+- TD-ISA is bytecode that can be dynamically translated to run on various CPUs using Just In Time (JIT) compilation.
+- This allows a generic Assembler language that can be cross assembled into various machine codes.
+- One of the goals of TD-ISA is to be an easy target for compilation from a variety of High Level Languages.
+- The TD-ISA could also be a CISC front end microcode that can run on various RISC proccessors like RISC-V.
+- It could also be implemented through a mode switch to be an alternative ISA for the X86 line of processors.
+- I would like this to become an open architecture which can be coordinated with RISC-V International as a new Standard CISC.
+- Comments are welcome, but please be kind. This is my baby.
